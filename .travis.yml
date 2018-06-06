@@ -4,10 +4,10 @@ php:
   - 5.4
   
 install:
-  - echo "install begin"
-  - echo "install edn"
+  - echo "Install Begin"
+  - echo "Install End"
   
 script:
-  - echo "script start"
+  - echo "Script Start"
   - phpunit Test.php
-  - echo "script end"
+  - echo "Script End"
