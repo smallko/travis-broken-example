@@ -3,10 +3,6 @@ php:
   - 5.5
   - 5.4
   
-install:
-  - echo "install begin"
-  - echo "install end"
-  
 script:
   - echo "Script Start"
   - phpunit Test.php
