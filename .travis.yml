@@ -4,8 +4,8 @@ php:
   - 5.4
   
 install:
-  - echo "Install Begin"
-  - echo "Install End"
+  - echo "install begin"
+  - echo "install end"
   
 script:
   - echo "Script Start"
